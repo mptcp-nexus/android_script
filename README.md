@@ -6,7 +6,7 @@ This script can be used to add some features to AOSP (apps need to be included m
 Usage: 
 ------
 
-    $ ./enhanceAOSP -<command>
+    $ ./enhanceAOSP.sh -<command>
 
 
 With the command being either
