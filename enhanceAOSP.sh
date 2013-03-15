@@ -25,8 +25,6 @@ processApp () {
   done
 }
 
-cd ..
-
 case "$1" in
    "") 
       echo "Usage: $0 -<command>"
